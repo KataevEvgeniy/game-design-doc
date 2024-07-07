@@ -94,7 +94,7 @@ const config = {
             items: [
               {
                 label: 'Материалы',
-                to: '/docs/intro',
+                to: '/docs/Сценарий',
               },
             ],
           },
